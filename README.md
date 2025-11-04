@@ -4,7 +4,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=30&duration=4000&pause=1000&color=FBBF24&center=false&vCenter=true&lines=Yo-ho-ho!+I'm+alwaysvivek;I'm+the+Captain+of+this+Ship;I'm+going+to+be+the+King+of+the+Makers!;The+One+Piece+of+Code+awaits!+Set+sail" alt="Typing Animation">
     </td>
     <td align="right" style="vertical-align: middle;">
-      <img src="https://i.pinimg.com/originals/97/5a/a5/975aa5c0ff220e1f017d8e05fc264e98.gif" alt="Luffy Smiling" width="450" height="450">
+      <img src="https://i.pinimg.com/originals/97/5a/a5/975aa5c0ff220e1f017d8e05fc264e98.gif" alt="Luffy Smiling" width="380" style="border-radius: 12px;">
     </td>
   </tr>
 </table>
@@ -13,7 +13,7 @@
 
 <p align="center">
   <b>🏴‍☠️ Linux Enthusiast | 📍 From Delhi, India 🇮🇳</b><br>
-  <i>Backend developer & Python enthusiast exploring AI, system design, and building intelligent tools.</i>
+  <i>Backend developer exploring AI systems, scalable design, and intelligent automation tools.</i>
 </p>
 
 ---
@@ -26,25 +26,25 @@
 
 ---
 
-`Things I've made`
+### ⚓️ Featured Projects
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
+| **Evolving AI Biosphere** | Python, PyTorch, Pygame, Deep Reinforcement Learning (LSTM, REINFORCE) | A neural ecosystem simulation where digital organisms evolve collective behaviors like foraging, clustering, and adaptive predator-prey dynamics. |
 | **DeepGrep API** | Python, FastAPI, NLP | A grep reimagined as an API with AI-powered semantic search, allowing contextual code and text searches beyond exact matches. |
 | **Fake News Detector** | Python, scikit-learn, NLP | Machine learning-based fake news detection leveraging NLP for text preprocessing, feature extraction, and classification. |
 | **C++ Lexical Analyzer** | C++ | Tokenizes C programs by identifying keywords, operators, literals, and identifiers, enhancing understanding of compiler front-end design. |
-| **Self-Evolving Artificial Life Simulation** | Python, PyTorch, Pygame, Deep Reinforcement Learning (LSTM, REINFORCE) | Simulation with LSTM-driven organisms, collective predator strategies, dynamic ecosystem modeling, and emergent behaviors like foraging, clustering, and synchronized avoidance. |
 
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ce/4e/cc/ce4eccc3fc9bc29c15226dbfa6bc407e.gif" alt="Thousand Sunny Sailing" width="600"/>
-</div> 
+  <img src="https://i.pinimg.com/originals/ce/4e/cc/ce4eccc3fc9bc29c15226dbfa6bc407e.gif" alt="Thousand Sunny Sailing" width="600" style="border-radius: 12px;"/>
+</div>
 
 ---
 
 <p align="center">
-  <b>☠️ Join My Crew to Discuss Open Source Adventures</b><br><br>
+  <b>☠️ Join My Crew to Collaborate on Open Source Adventures</b><br><br>
   <a href="https://www.linkedin.com/in/vivekkdagar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
