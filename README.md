@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-  <b>🧭 Connect with the Captain</b><br><br>
+  <b>☠️ Join My Crew to Discuss Open Source Adventures</b><br><br>
   <a href="https://www.linkedin.com/in/vivekkdagar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
