@@ -4,10 +4,8 @@
   </a>
 </div>
 
-## ⚓️ Introduction: The Captain's Code (Typing.. Mode 🎰)
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=30&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=800&lines=Yo-ho-ho!+I'm+**[YOUR_GITHUB_USERNAME]**;I'm+the+Captain+of+this+Code+Crew.;I'm+going+to+be+the+King+of+the+Developers!;The+**One+Piece**+of+Code+awaits!+Let's+set+sail!;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=30&duration=4000&pause=1000&color=FBBF24&center=true&vCenter=true&width=800&lines=Yo-ho-ho!+I'm+alwaysvivek;I'm+the+Captain+of+this+Code+Ship;I'm+going+to+be+the+King+of+the+Developers!;The+One+Piece+of+Code+awaits!+Let's+set+sail!;" alt="Typing Animation" />
 </p>
 
 ---
