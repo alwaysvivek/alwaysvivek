@@ -26,6 +26,17 @@
 
 ---
 
+`Things I've made`
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **DeepGrep API** | Python, FastAPI, NLP | A grep reimagined as an API with AI-powered semantic search, allowing contextual code and text searches beyond exact matches. |
+| **Fake News Detector** | Python, scikit-learn, NLP | Machine learning-based fake news detection leveraging NLP for text preprocessing, feature extraction, and classification. |
+| **C++ Lexical Analyzer** | C++ | Tokenizes C programs by identifying keywords, operators, literals, and identifiers, enhancing understanding of compiler front-end design. |
+| **Self-Evolving Artificial Life Simulation** | Python, PyTorch, Pygame, Deep Reinforcement Learning (LSTM, REINFORCE) | Simulation with LSTM-driven organisms, collective predator strategies, dynamic ecosystem modeling, and emergent behaviors like foraging, clustering, and synchronized avoidance. |
+
+---
+
 <div align="center">
   <img src="https://i.pinimg.com/originals/ce/4e/cc/ce4eccc3fc9bc29c15226dbfa6bc407e.gif" alt="Thousand Sunny Sailing" width="600"/>
 </div> 
@@ -42,7 +53,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
-
----
-
