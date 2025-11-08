@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysvivek&theme=onedark&layout=compact&langs_count=8&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysvivek&theme=onedark&layout=compact&langs_count=8&hide_border=true&v=2" alt="Top Languages">
   <br><br>
   <i>These are the tools that steer my ship — sharp, trusted, and battle-tested.</i>
 </p>
